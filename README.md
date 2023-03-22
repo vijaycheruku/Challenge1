@@ -27,6 +27,13 @@ Refactoring existing code (improving it without changing what it does) to meet a
 
 * Open index.html in your browser using live server
 
+
+## Link to deployed webpage 
+
+* https://vijaycheruku.github.io/ChallengeOnHtmlCodeRefactoring/
+
+
+
 ![Screenshot](./assets/images/Readme1.png)
 
 
